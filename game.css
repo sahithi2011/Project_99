@@ -1,0 +1,132 @@
+#hi{
+	color: rgb(0, 0, 0);
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+body
+{
+	background: url(curve-light-blue-background-abstract-free-vector.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(255, 255, 255);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		border-style: solid;
+		border-color: black;
+		border-width: 5px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	color: rgb(0, 0, 0);
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #414bd4;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h3{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: black;	
+}
+
+h1{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: black;		
+}
+h2{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: black;		
+}
+h4{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: rgb(0, 0, 0);		
+}
+#player2_score ,#player1_score{
+	color: black;	
+}
+
+#scoreLabel{
+	color: rgb(0, 0, 0);
+}
+
+#number1{
+	width: 50%;
+}
+#number2{
+	width: 50%;
+}
+
+#sendbtn{
+	width:30%;
+	font-size: 20px;
+	background-color: rgb(87, 200, 252);
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	border-radius: 20px;
+}
+
+#byn{
+	width:30%;
+	font-size: 20px;
+	background-color: rgb(87, 200, 252);
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	border-radius: 20px;
+}
+
+label{
+	color: black;	
+}
+
+#hi{
+	color: rgb(0, 0, 0);	
+}
+
+#scoreBack{
+	background-color: white;
+	border-radius: 10px;
+	width: 10%;
+	border-style: solid;
+	border-color: black;
+	border-width: 3px;
+	;
+}
+
+#h2sec{
+	color: rgb(0, 0, 0);
+}
+
+#player_question{
+	color: rgb(0, 0, 0);
+}
+
+#player_answer{
+	color: rgb(0, 0, 0);
+}
+
+#goat{
+	color: rgb(0, 0, 0);
+}
